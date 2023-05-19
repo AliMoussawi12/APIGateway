@@ -1,0 +1,2 @@
+2023-04-24 01:26:23,661 WARN  [org.keycloak.events] (default task-48) type=REFRESH_TOKEN_ERROR, realmId=master, clientId=security-admin-console, userId=null, ipAddress=127.0.0.1, error=invalid_token, grant_type=refresh_token, client_auth_method=client-secret
+2023-04-24 15:59:53,856 WARN  [org.keycloak.events] (default task-53) type=LOGIN_ERROR, realmId=master, clientId=null, userId=null, ipAddress=127.0.0.1, error=expired_code, restart_after_timeout=true, authSessionParentId=757eec67-4691-403f-bf9f-c63c1d2072e3, authSessionTabId=x8-zVxQI1Nk
